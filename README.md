@@ -1,16 +1,16 @@
-### Hi there 👋
+# Namaste 🙏
 
-<!--
-**arch-raven/arch-raven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+My name is Aditya Kumar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m interested in Natural Language Processing
+- 🤔 I'm currently learning Generative Modeling
+- 👯 I’m looking to collaborate on reproducing Research Papers and end-to-end ML applications
+- 💬 Ask me about Music, Life, Whatever you value
+- 📫 How to reach me: mail
+- ⚡ Loss = Expectation - Reality (:smiles in pain:)
+
+<!-- ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=arch-raven&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
+<br>**Thanks for contributing to this =>**
+![views stat](https://komarev.com/ghpvc/?username=arch-raven&color=red) -->
