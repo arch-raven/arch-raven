@@ -5,9 +5,8 @@
 My name is Aditya Kumar
 
 - 🔭 I’m interested in Natural Language Processing
-- 🤔 I'm currently learning Generative Modeling
+- 🤔 I'm currently learning Dialogue Generation
 - 👯 I’m looking to collaborate on reproducing Research Papers and end-to-end ML applications
-- 💬 Ask me about Music, Life, Whatever you value
 - 📫 How to reach me: mail
 - ⚡ Loss = Expectation - Reality (:smiles in pain:)
 
