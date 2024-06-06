@@ -7,7 +7,7 @@ My name is Aditya Kumar
 - 🔭 I’m interested in Natural Language Processing
 - 🤔 I'm currently learning Dialogue Generation
 - 👯 I’m looking to collaborate on reproducing Research Papers and end-to-end ML applications
-- 📫 How to reach me: mail
+- 📫 How to reach me: Twitter
 - ⚡ Loss = Expectation - Reality (:smiles in pain:)
 
 <!-- ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=arch-raven&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
